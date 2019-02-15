@@ -4,4 +4,8 @@ body{
 #head{
   text-align: center;
   font-size: 60px;
+  font-family: cursive;
+}
+.frm{
+  text-align: center;
 }
