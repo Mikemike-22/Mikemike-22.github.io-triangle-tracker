@@ -1,18 +1,18 @@
-function trackButton();{
-  var SideA=document.getElementById("a").id;
-  var SideB=document.getElementById("b").id;
-  var SideC=document.getElementById("c").id;
+function trackButton(){
+  var A=document.getElementById("a").value;
+  var B=document.getElementById("b").value;
+  var C=document.getElementById("c").value;
 
-  if(SideA===SideB && SideB===SideC && SideB===SideC){
-  alert(" Equilateral Triangle ");
+  if(A===B && B===C && B===C){
+document.getElementById("result").innerHTML="Equilateral Triangle"
   }
-  else if(SideA===SideB || SideA===SideC || SideC===SideB){
-  alert("Isosceles Triangle");
+  else if(A===B || A===C || C===B){
+document.getElementById("result").innerHTML="Isosceles Triangle"
   }
-  else if((SideA+SideB)<= SideC || (SideA+SideC)<=SideB || (SideB+sideC)<=SideA) {
-  alert("Not a Triangle");
+  else if((A+B)<= C || (A+C)<=B || (B+C)<=A) {
+document.getElementById("result").innerHTML="Scalene"
   }
-  else{
-  alert("Scalene Triangle");
+  else if{(A+B)>=C || (B+C)>=A || (C+A)>=B
+document.getElementById("result").innerHTML="Not a Triangle."
   }
   }
