@@ -13,6 +13,6 @@ document.getElementById("result").innerHTML="Isosceles Triangle"
 document.getElementById("result").innerHTML="Scalene"
   }
   else if{(A+B)>=C || (B+C)>=A || (C+A)>=B
-document.getElementById("result").innerHTML="Not a Triangle."
+document.getElementById("result").innerHTML="Not a Triangle"
   }
   }
