@@ -10,7 +10,7 @@ document.getElementById("result").innerHTML="Equilateral Triangle"
 document.getElementById("result").innerHTML="Isosceles Triangle"
   }
   else if((A+B)<= C || (A+C)<=B || (B+C)<=A) {
-document.getElementById("result").innerHTML="Scalene"
+document.getElementById("result").innerHTML="Scalene Triangle"
   }
   else if{(A+B)>=C || (B+C)>=A || (C+A)>=B
 document.getElementById("result").innerHTML="Not a Triangle"
