@@ -1,17 +1,17 @@
-# {TRIANGLE-TRACKER}
-#### {An application that will output the type of triangle}, {21-02-2018}
-#### By **{Michael Kipkorir}**
+# TRIANGLE-TRACKER
+#### An application that will output the type of triangle, 21-02-2018
+#### By **Michael Kipkorir**
 ## Description
-{This is an apllication that will confirm if the inputs entered will form a triangle or not. If it 
- forms a triangle, it will determine the type of a triangle and output the result}
+This is an apllication that will confirm if the inputs entered will form a triangle or not. If it 
+ forms a triangle, it will determine the type of a triangle and output the result.
 ## Setup/Installation Requirements
-{a functional web browser}
+a functional web browser
 ## Known Bugs
-{There are no known bugs in the application.}
+There are no known bugs in the application.
 ## Technologies Used
-{The languages used in the development of the application are html, css and java script}
+The languages used in the development of the application are html, css and java script
 ## Support and contact details
-{Incase of any bugs or any other issue, you can fork the repositorty and make the necesarry chanf}
+Incase of any bugs or any other issue, you can fork the repositorty and make the necesarry changes.
 ### License
 MIT License
 
@@ -34,4 +34,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-Copyright (c) {year} **{List of contributors or company name}**
